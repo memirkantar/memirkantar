@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @memirkantar
+- 👀 I’m interested in React-JS / Tailwind CSS
